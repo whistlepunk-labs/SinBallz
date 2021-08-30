@@ -1,0 +1,20 @@
+﻿  MoveBall.cpp
+  SinBallz.cpp
+  SinLine.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  main.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+z:\of_v0.11.2_vs2017_release\apps\myapps\sinballz\src\ofapp.cpp(52): warning C4018: '<': signed/unsigned mismatch
+z:\of_v0.11.2_vs2017_release\apps\myapps\sinballz\src\ofapp.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  sinBallz.vcxproj -> Z:\of_v0.11.2_vs2017_release\apps\myApps\sinBallz\bin\sinBallz_debug.exe
+  
+  	                   2	Z:\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	Z:\of_v0.11.2_vs2017_release\apps\myApps\sinBallz\bin\FreeImage.dll
+  
+  	                   1	Z:\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	Z:\of_v0.11.2_vs2017_release\apps\myApps\sinBallz\bin\fmod.dll
+  	  *EXTRA File 		 1733120	Z:\of_v0.11.2_vs2017_release\apps\myApps\sinBallz\bin\fmodL.dll
